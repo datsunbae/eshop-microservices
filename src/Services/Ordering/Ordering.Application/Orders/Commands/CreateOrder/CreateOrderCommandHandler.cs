@@ -1,8 +1,4 @@
-﻿using BuildingBlocks.CQRS;
-using Ordering.Application.Data;
-using Ordering.Application.Dtos;
-using Ordering.Domain.Modes;
-using Ordering.Domain.ValueObjects;
+﻿using Ordering.Domain.Modes;
 
 namespace Ordering.Application.Orders.Commands.CreateOrder;
 

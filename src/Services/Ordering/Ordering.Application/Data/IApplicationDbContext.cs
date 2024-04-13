@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Ordering.Domain.Models;
-using Ordering.Domain.Modes;
+﻿using Ordering.Domain.Modes;
 
 namespace Ordering.Application.Data;
 
